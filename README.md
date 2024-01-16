@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a professional software engineer, but most of the repositories here are related to my hobby Arduino.
+
 If you want to say thank you with a donation, you can
 <a href="https://www.buymeacoffee.com/jurajandraY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
  or use PayPal 
