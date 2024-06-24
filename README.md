@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a professional software engineer, but most of the repositories here are related to my hobby Arduino. Some of my Arduino networking related reposotories are in [Networking for Arduino](https://github.com/Networking-for-Arduino).
+I am a professional software engineer, but most of the repositories here are related to my hobby Arduino. Some of my Arduino networking related repositories are in [Networking for Arduino](https://github.com/Networking-for-Arduino).
 
 If you want to say thank you with a donation, you can
 <a href="https://www.buymeacoffee.com/jurajandraY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
